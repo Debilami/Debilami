@@ -1,7 +1,7 @@
 Hello 👋 My name is Deborah Adekoya
------------------------------------
-Technical writer
 ================================
+Technical writer
+----------------
 
 
 <!--
