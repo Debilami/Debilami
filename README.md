@@ -7,6 +7,8 @@ Deborah Adekoya is a technical writer who is passionate about creating quality d
 
 She creates varrying technical documents for various audience.
 
+Want to know me more❔
+
 
 <!--
 **Debilami/Debilami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
