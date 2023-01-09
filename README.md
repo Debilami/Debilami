@@ -3,7 +3,9 @@ Hello 👋 My name is Deborah Adekoya
 Technical writer
 ===============================
 
+Deborah Adekoya is a technical writer who is passionate about creating quality documents for end-users product optimisation. She loves learning new concepts in technical writing.
 
+She creates varrying technical documents for various audience.
 
 
 <!--
