@@ -3,7 +3,7 @@ Hello there 👋 My name is Deborah Adekoya
 Technical writer
 ----------------
 
-Deborah Adekoya is a tech writer who is passionate about creating quality documents for end-users product optimisation. She loves learning technology and concepts in technical writing.
+Deborah Adekoya is a tech writer who is passionate about creating quality documents for end-users product optimisation. She loves learning new technology and concepts in technical writing.
 
 She creates varying technical documents for various audiences.
 
@@ -22,6 +22,8 @@ More about me❔
 <p align="left">
 <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
 <img src="https://github.com/Debilami/Debilami/issues/1#issue-1527273263" width="36" height="36" alt="Google Docs" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  
   <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287318#overview" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
