@@ -9,7 +9,7 @@ She creates varrying technical documents for various audience.
 
 Want to know me more❔
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Check me out on the web](http://https://deborahadekoya.disha.page/), to see the documents have created so far.
+* 🖥️  See my portfolio, [find me on the web](http://https://deborahadekoya.disha.page/), to see the documents have created so far.
 
 
 <!--
