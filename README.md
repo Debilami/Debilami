@@ -22,8 +22,7 @@ More about me❔
 <p align="left">
 <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
 <img src="https://play-lh.googleusercontent.com/emmbClh_hm0WpWZqJ0X59B8Pz1mKoB9HVLkYMktxhGE6_-30SdGoa-BmYW73RJ8MGZQ=w240-h480-rw" width="36" height="36" alt="Google Docs" /></a>
-  <a href="https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b" target="_blank" rel="noreferrer"><img src="https://www.mis-solutions.com/wp-content/uploads/2017/05/snipping-tool-icon-e1493732498730.jpg" width="36" height="36" alt="Snipping tool" /></a>
-  
+  <a href="https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b" target="_blank" rel="noreferrer"><img src="https://www.mis-solutions.com/wp-content/uploads/2017/05/snipping-tool-icon-e1493732498730.jpg" width="36" height="36" alt="Snipping tool" /></a>  
   <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287318#overview" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
