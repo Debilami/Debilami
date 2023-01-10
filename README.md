@@ -1,13 +1,13 @@
-Hello 👋 My name is Deborah Adekoya
-------------------------------------
-Technical writer
+Hello there 👋 My name is Deborah Adekoya
 ===============================
+Technical writer
+----------------
 
-Deborah Adekoya is a technical writer who is passionate about creating quality documents for end-users product optimisation. She loves learning new concepts in technical writing.
+Deborah Adekoya is a tech writer who is passionate about creating quality documents for end-users product optimisation. She loves learning technologies and new concepts in technical writing.
 
 She creates varrying technical documents for various audience.
 
-Want to know me more❔
+More about me❔
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio, [find me on the web](http://https://deborahadekoya.disha.page/), to see the documents have created so far.
 
