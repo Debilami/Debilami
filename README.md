@@ -9,10 +9,10 @@ She creates varying technical documents for various audiences.
 
 More about me❔
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio, [find me on the web](http://https://deborahadekoya.disha.page/),to the documents have created so far.
+* 🖥️  See my portfolio, [find me on the web](http://https://deborahadekoya.disha.page/),to the documents have created.
 * ✉️  You can contact me at [deborahadekoya82@gmail.com](mailto:deborahadekoya82@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://https://deborahadekoya.disha.page/)
-* 🧠  I'm learning full-stack development
+* 🧠  I'm learning bootstrap.
 * 🤝  I'm open to collaborating on projects, open source and remote work.
 * ⚡  I'm a financial market enthusiast
 
