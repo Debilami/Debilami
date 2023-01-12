@@ -19,11 +19,11 @@ More about me❔
 
 
 # Projects
-<a href="" target="_blank" rel="noopener noreferrer">
+<a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" width="20%" alt="Job board app" />
 </a>
 
-<a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" target="_blank" rel="noopener noreferrer">
+<a href="https://debilami.github.io/My-personal-site/" target="_blank" rel="noopener noreferrer">
   <img src="https://www.nicepng.com/png/full/3-36807_free-green-mountain-png-mountain-cartoon-images-png.png" width="40%" alt="Customer feedback form" />
 </a>
 
