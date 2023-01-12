@@ -48,7 +48,7 @@ More about me❔
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.codepen.io/terieyenike" target="_blank" rel="noreferrer">
+  <a href="https://codepen.io/your-work" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
   
   
