@@ -18,6 +18,17 @@ More about me❔
 
 
 
+# Projects
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://user-images.githubusercontent.com/25850598/200447477-849a94a1-ef41-4e9d-80a8-83a06f96f76e.png" width="40%" alt="Job board app" />
+</a>
+
+<a href="https://next-customer-form-with-xata-cloudinary.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://user-images.githubusercontent.com/25850598/201544139-cdd8e804-89c0-4314-a22d-dd6f56762418.png" width="40%" alt="Customer feedback form" />
+</a>
+
+
+
 ### Skills
 <p align="left">
 <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
@@ -27,6 +38,7 @@ More about me❔
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   </p>
+  
   
 
 
