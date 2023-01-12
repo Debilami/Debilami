@@ -20,14 +20,15 @@ More about me❔
 
 # Projects
 <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" width="20%" alt="Job board app" />
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" width="20%" alt="Photocap app" />
 </a>
 
 <a href="https://debilami.github.io/My-personal-site/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.nicepng.com/png/full/3-36807_free-green-mountain-png-mountain-cartoon-images-png.png" width="30%" alt="Customer feedback form" />
+  <img src="https://www.nicepng.com/png/full/3-36807_free-green-mountain-png-mountain-cartoon-images-png.png" width="30%" alt="my personal site" />
 </a>
 <a href="https://debilami.github.io/cv/" target="_blank" rel="noopener noreferrer">
-  <img src="https://debilami.github.io/cv/deborah.png" width="20%" alt="Job board app" />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/004/687/856/small/cv-black-orange-letter-logo-design-cv-icon-with-dots-and-bubbles-logo-vector.jpg" width="20%" alt="cv" />
+  
 </a>
 
 
