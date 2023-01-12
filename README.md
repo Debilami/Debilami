@@ -20,7 +20,7 @@ More about me❔
 
 # Projects
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" width="40%" alt="Job board app" />
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" width="20%" alt="Job board app" />
 </a>
 
 <a href="https://next-customer-form-with-xata-cloudinary.vercel.app/" target="_blank" rel="noopener noreferrer">
