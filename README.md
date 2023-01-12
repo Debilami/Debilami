@@ -23,8 +23,8 @@ More about me❔
   <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" width="20%" alt="Job board app" />
 </a>
 
-<a href="https://next-customer-form-with-xata-cloudinary.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://user-images.githubusercontent.com/25850598/201544139-cdd8e804-89c0-4314-a22d-dd6f56762418.png" width="40%" alt="Customer feedback form" />
+<a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.nicepng.com/png/full/3-36807_free-green-mountain-png-mountain-cartoon-images-png.png" width="40%" alt="Customer feedback form" />
 </a>
 
 
