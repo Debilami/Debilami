@@ -18,7 +18,7 @@ More about me❔
 
 
 
-###Projects
+### Projects
 <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" width="20%" alt="Photocap app" />
 </a>
