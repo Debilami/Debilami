@@ -3,7 +3,7 @@ Hello there 👋 My name is Deborah Adekoya
 Technical writer
 ----------------
 
-Deborah Adekoya is a tech writer who is passionate about creating quality documents for end-users product optimisation. She loves learning new technology and concepts in technical writing.
+Deborah Adekoya is a tech writer passionate about creating quality documents for end-users product optimization. She loves learning new technology and concepts in technical writing.
 
 She creates varying technical documents for various audiences.
 
@@ -13,7 +13,7 @@ More about me❔
 * ✉️  You can contact me at [deborahadekoya82@gmail.com](mailto:deborahadekoya82@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](https://deborahadekoya.disha.page/)
 * 🧠  I'm learning bootstrap.
-* 🤝  I'm open to collaborating on projects, open source and remote work.
+* 🤝  I'm open to collaborating on projects, open source, and remote work.
 * ⚡  I'm a financial market enthusiast.
 
 
