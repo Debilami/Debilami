@@ -55,6 +55,7 @@ More about me❔
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
   <a href="https://twitter.com/debbieadekoya_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
   
+
   
   ### Badges
 
@@ -70,7 +71,6 @@ More about me❔
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
   
 
