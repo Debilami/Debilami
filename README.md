@@ -14,7 +14,11 @@ More about me❔
 * 🚀  I'm currently working on [My Portfolio](https://deborahadekoya.disha.page/)
 * 🧠  I'm learning bootstrap.
 * 🤝  I'm open to collaborating on projects, open source and remote work.
-* ⚡  I'm a financial market enthusiast
+* ⚡  I'm a financial market enthusiast.
+
+
+### Publications
+[Trends in the Ed-tech](https://medium.com/@deborahadekoya82/trends-in-the-ed-tech-5dd552351629)
 
 
 
