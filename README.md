@@ -6,7 +6,6 @@ Technical writer
 Deborah Adekoya is a tech writer passionate about creating quality documents for end-users product optimization. She loves learning new technology and concepts in technical writing.
 
 She creates varying technical documents for various audiences.
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 
 More about me❔
 * 🌍  I'm based in Nigeria
