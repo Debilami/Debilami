@@ -19,7 +19,7 @@ More about me❔
 ### Publications
 [Trends in the Ed-tech](https://medium.com/@deborahadekoya82/trends-in-the-ed-tech-5dd552351629)<br>
 [What are the long-term effects of living in a technological world](https://medium.com/@deborahadekoya82/what-are-the-long-term-effects-of-living-in-a-technological-world-15350838554a)<br>
-[The Ultimate Guide for Coding](https://medium.com/@deborahadekoya82/the-ultimate-guide-for-coding-69019bc7a574)
+[The Ultimate Guide for Coding](https://medium.com/@deborahadekoya82/the-ultimate-guide-for-coding-69019bc7a574) and more
 
 
 
