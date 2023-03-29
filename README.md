@@ -1,9 +1,10 @@
 Hello there 👋 My name is Deborah Adekoya
 ===============================
-Technical writer
+ Web developer | Technical writer
 ----------------
 
-Deborah Adekoya is a tech writer passionate about creating quality documents for end-users product optimization. She loves learning new technology and concepts in technical writing.
+Deborah Adekoya loves building things for the web and a tech writer passionate about creating quality documents for end-users product optimization.
+She loves learning new technology and concepts in technical writing.
 
 She creates varying technical documents for various audiences.
 
@@ -14,12 +15,6 @@ More about me❔
 * 🧠  I'm learning bootstrap.
 * 🤝  I'm open to collaborating on projects, open source, and remote work.
 * ⚡  I'm a financial market enthusiast.
-
-
-### Publications
-[Trends in the Ed-tech](https://medium.com/@deborahadekoya82/trends-in-the-ed-tech-5dd552351629)<br>
-[What are the long-term effects of living in a technological world](https://medium.com/@deborahadekoya82/what-are-the-long-term-effects-of-living-in-a-technological-world-15350838554a)<br>
-[The Ultimate Guide for Coding](https://medium.com/@deborahadekoya82/the-ultimate-guide-for-coding-69019bc7a574) and more
 
 
 
