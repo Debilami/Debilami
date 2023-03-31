@@ -4,9 +4,10 @@ Hello there 👋 My name is Deborah Adekoya
 ----------------
 
 Deborah Adekoya loves building things for the web and a tech writer passionate about creating quality documents for end-users product optimization.
+<br>
+
 She loves learning new technology and concepts in technical writing.
 
-She creates varying technical documents for various audiences.
 
 More about me❔
 * 🌍  I'm based in Nigeria
