@@ -1,6 +1,6 @@
 Hello there 👋 My name is Deborah Adekoya
 ===============================
- Web developer | Technical writer
+ Web developer . Technical writer
 ----------------
 
 Deborah Adekoya loves building things for the web and a tech writer passionate about creating quality documents for end-users product optimization.
