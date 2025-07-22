@@ -1,9 +1,9 @@
 Hello there 👋 My name is Deborah Adekoya
 ===============================
- Web developer . Technical writer
+ Web developer. Technical writer
 ----------------
 
-Deborah Adekoya loves building things for the web and a tech writer passionate about creating quality documents for end-users product optimization.
+Deborah Adekoya loves building things for the web and is a tech writer passionate about creating quality documents for end-users' product optimisation.
 <br>
 
 She loves learning new technology and concepts in technical writing.
@@ -13,7 +13,7 @@ More about me❔
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio, [find me on the web](https://deborahadekoya.disha.page/), to see the documents have created.
 * ✉️  You can contact me at [deborahadekoya82@gmail.com](mailto:deborahadekoya82@gmail.com)
-* 🧠  I'm learning bootstrap.
+* 🧠  I'm learning Node.js.
 * 🤝  I'm open to collaborating on projects, open source, and remote work.
 * ⚡  I'm a financial market enthusiast.
 
